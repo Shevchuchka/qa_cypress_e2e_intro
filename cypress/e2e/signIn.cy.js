@@ -1,8 +1,8 @@
 /// <reference types="cypress" />
 
-const username = 'username';
-const email = 'useremail@gmail.com';
-const password = 'password1234';
+const username = 'myusername';
+const email = 'myuseremail@gmail.com';
+const password = 'mypassword1234';
 
 describe('Sign In page', () => {
   it('should provide an ability to log in', () => {
